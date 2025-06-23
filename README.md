@@ -1,5 +1,7 @@
 # 🧠 Personalizá tu terminal Ubuntu (ideal para Claude Code)
 
+![Portada terminal personalizada](portada-terminal.png)
+
 Esta guía te muestra cómo personalizar tu terminal Ubuntu con un mensaje de bienvenida, tabla de comandos útiles y pequeños detalles para mejorar tu productividad al usar asistentes como Claude Code o simplemente trabajar más cómodo desde la terminal.
 
 > ✅ Compatible con Ubuntu o WSL (Windows Subsystem for Linux)
